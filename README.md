@@ -14,13 +14,13 @@ A python-based ball-shooting game of fluid-rigid simulation and autonomous contr
 
 ## Features
 
-- A rendering practice based on OpenGL, including many basic items for classic pipelines:
-- GLSL language of GPU programming for implementations of different shaders (vertex, fragment, geometric)
-- Shadow mapping for quick stratum and shadow calculation
-- Various illumination models (of local) and dual-sensitivity textures
-- Semi-opaque light mixing for tansparent objects and perspective adjustment
-- Graphic assistance for on-the-fly camera motion and model reading
-- Supersampling and bias correction 
+- MLS-MPM method for fluid simulation
+- Newton-Eulerian system for rigid body movement
+- Lagrangian sampling for fluid-rigid coupling
+- Robustness and Vram optimization for GPU parallelization
+- Soft Actor-Critic deep reinforcement learning framework for tube control
+- Meta Learning for problem generalization
+- CNN Autoencoder pretraining for correlated field properties 
 
 
 ## Installation
@@ -46,7 +46,8 @@ A python-based ball-shooting game of fluid-rigid simulation and autonomous contr
 ## Usage
 
 ### How to play with shooting tube
-- W & S: control the tube to move leftwards and rightwards
+- A(&leftarrow;) & D(&rightarrow;): control the tube to move leftwards and rightwards
+- W(&uparrow;) & S(&downarrow;): increase or decrease the ejecting speed
 - right & left mouse click: control the tube to rotate clockwise and counter-clockwise
 - R: reset the ball and tube
 
