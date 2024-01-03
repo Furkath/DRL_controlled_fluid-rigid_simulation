@@ -46,6 +46,9 @@ A python-based ball-shooting game of fluid-rigid simulation and autonomous contr
 ## Usage
 
 ### How to play with shooting tube
+```
+python play.py
+```
 - A(&leftarrow;) & D(&rightarrow;): control the tube to move leftwards and rightwards
 - W(&uparrow;) & S(&downarrow;): increase or decrease the ejecting speed
 - right & left mouse click: control the tube to rotate clockwise and counter-clockwise
@@ -68,5 +71,5 @@ python eval.py ./configs/eval.json
 
  
 ## Demo
-![Scene_demo 1](https://github.com/Furkath/GL-Rendering/tree/master/demos/16-41-53.png)
-![Scene_demo 2](https://github.com/Furkath/GL-Rendering/tree/master/demos/15-24-34.png)
+![demo 1](https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/demo.gif)
+![demo 2](https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/trained.gif)
