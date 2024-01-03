@@ -71,5 +71,5 @@ python eval.py ./configs/eval.json
 
  
 ## Demo
-![demo 1](https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/demo.gif)
-![demo 2](https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/trained.gif)
+![demo 1](https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/demo.gif =256x256)
+![demo 2](https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/trained.gif =256x256)
