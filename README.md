@@ -76,3 +76,5 @@ python eval.py ./configs/eval.json
 -Effects of the AutoEncoder:
 
 <img src="https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/autuoencoder.png" alt="demo3" />
+
+—— by Zhiwei Zhao, Dec. 2023
