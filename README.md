@@ -12,6 +12,8 @@ A python-based ball-shooting game of fluid-rigid simulation and autonomous contr
 <!-- [License](#license) -->
 <!-- [Acknowledgements](#acknowledgements) -->
 
+<img src="https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/trained.gif" alt="demo" width="300" height="300" /> 
+
 ## Features
 
 - MLS-MPM method for fluid simulation
